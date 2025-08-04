@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ganesh949152/cicdtest_elewatelabsassessment_day1#readme",
   "description": "",
   "devDependencies": {
-    "jest": "^30.0.5"
+    "jest": "^30.0.5",
+    "vitest": "^3.2.4"
   }
 }
