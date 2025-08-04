@@ -1,0 +1,23 @@
+{
+  "name": "cicdtest_elewatelabsassessment_day1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganesh949152/cicdtest_elewatelabsassessment_day1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganesh949152/cicdtest_elewatelabsassessment_day1/issues"
+  },
+  "homepage": "https://github.com/ganesh949152/cicdtest_elewatelabsassessment_day1#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
