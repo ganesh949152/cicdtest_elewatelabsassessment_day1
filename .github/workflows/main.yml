@@ -1,5 +1,9 @@
 name: CI/CD for Node.js & Docker
 
+permissions:
+  contents: write
+
+
 on:
   push:
     branches: [ main ]
