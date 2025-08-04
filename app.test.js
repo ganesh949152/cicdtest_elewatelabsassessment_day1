@@ -1,3 +1,6 @@
-test('Sample test', () => {
-  expect(2 + 2).toBe(4);
+import { describe, it, expect } from "vitest";
+describe("Math", () => {
+  it("adds numbers correctly", () => {
+    expect(2 + 2).toBe(4);
+  });
 });
